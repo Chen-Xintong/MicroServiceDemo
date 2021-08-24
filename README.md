@@ -1,4 +1,4 @@
 # MicroServiceDemo
 A Learning repo about Cloud Native.
 
-Every Week Update Twice.
+Update repo every week.
